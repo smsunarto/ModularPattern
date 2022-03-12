@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "tintinweb.vscode-solidity-language",
+    "tintinweb.solidity-visual-auditor",
+    "tintinweb.vscode-solidity-flattener",
+    "juanblanco.solidity",
+    "esbenp.prettier-vscode",
+    "tintinweb.graphviz-interactive-preview"
+  ]
+}
